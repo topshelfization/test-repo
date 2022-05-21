@@ -1,6 +1,6 @@
 This is a file.
 
-This is a (**edit made from github.com**) line of text.
+This is a line of text. (**fixed from terminal**)
 
 Some text added from the github website.
 
